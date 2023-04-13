@@ -9,6 +9,9 @@ In this ficitional set up, I'm the new Chief Data Scientist for a city's school 
 
 As a first task, I've been asked to analyze the district-wide standardized test results. Using data on every student's math and reading scores, as well as various information on the schools they attend, I'm asked to aggregate the data to showcase obvious trends in school performance.
 
+
+--------------------------------------------------------
+
 Please locate the "Analysis" file in the PyCitySchools folder for helpful insghts from the analysis. 
 The script was completed using Jupyter notebooks for easy data frame viewing. 
 
