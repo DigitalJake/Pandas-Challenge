@@ -1,4 +1,4 @@
-# Py City Schools 
+# PyCity Schools 
 
 ![cute-panda-go-school_29190-1681](https://user-images.githubusercontent.com/120591725/231637299-0c061406-603e-407f-ac92-959a0b70b1d5.jpg)
 
@@ -9,10 +9,12 @@ In this ficitional set up, I'm the new Chief Data Scientist for a city's school 
 
 As a first task, I've been asked to analyze the district-wide standardized test results. Using data on every student's math and reading scores, as well as various information on the schools they attend, I'm asked to aggregate the data to showcase obvious trends in school performance.
 
-Please locate my report in the PyCitySchools folder for helpful insghts from the analysis.
+Please locate the "Analysis" file in the PyCitySchools folder for helpful insghts from the analysis. 
+The script was completed using Jupyter notebooks for easy data frame viewing. 
 
 
-----------------District Summary--------------
+
+# District Summary
 
 
 
@@ -39,7 +41,7 @@ Average reading score
 
 
 
-----------------School Summary--------------
+# School Summary
 
 
 
