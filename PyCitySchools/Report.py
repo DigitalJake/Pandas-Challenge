@@ -146,3 +146,7 @@ math_scores.style.format({'9th': '{:.2f}',
 
 # creates grade level average reading scores for each school
 ninth_reading = student_data.loc[student_data['grade'] == '9th'].groupby('School Name')["reading_score"].mean()
+
+district_summary.to_csv('readme/district_summary.csv', index=False)
+school_summary.to_csv('report/school_summary.csv', index=False)
+
