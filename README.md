@@ -1,7 +1,8 @@
 # Py City Schools 
 
+![cute-panda-go-school_29190-1681](https://user-images.githubusercontent.com/120591725/231637299-0c061406-603e-407f-ac92-959a0b70b1d5.jpg)
 
-image.png
+
 
 
 In this ficitional set up, I'm the new Chief Data Scientist for a city's school district. In this capacity, I assist with helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
