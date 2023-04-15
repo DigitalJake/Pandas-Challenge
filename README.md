@@ -74,7 +74,11 @@ Average reading score
 % overall passing (the percentage of students who passed math AND reading)
 
 
+
 # Comparison
+
+
+
  
 Highest-Performing Schools (Sort by % Overall Passing)
 
