@@ -1,14 +1,19 @@
 # Observable Trends
 
 
----District Summary---
-Some noticable trends in the School Summary section include:
-        -Average reading scores were much higher across the 15 schools than the other subjects
-        -The average score of the 3 subjects for all schools was a passing score above 70%, displaying positive results in the system
+This analysis compares school size with school spending. Through the data manipulation process, we have learned some fundemental truths from the data sets based on school size and spending. The data sets provide enough variety and sample size in the data with multiple schools in each section to perform a healthy and fact-based analysis. 
+
+My findings include: 
 
 
----School Summary---
-Some noticable trends in the School Summary section include:
-        - Schools with less students receive higher averages scores in general
-        - Charter schools had incredibly higher average test scores than district schools
+ ---School Size---
+        Some noticable trends in the School Size include:
+                - Larger schools performing considerabley worse in many sections and overal passing percentage.
+                - Math scores were particularly poor in larger schools compared to medium and small schools.
+        
 
+
+---School Spending---
+        Some noticable trends in the School Spending section include:
+                - Schools with less per capita spending generated noticeabley higher average scores and overall passing.
+                - Higher per capita spending is most likely linked to larger schools, meaning that increased spending doesn't affect overall passing but smaller class sizes do. 
